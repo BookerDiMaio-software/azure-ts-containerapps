@@ -1,0 +1,7 @@
+name: azure-ts-containerapps
+runtime: nodejs
+description: Creates an Azure Container App and deploys a custom Docker image to it
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://github.com/pulumi/examples/tree/master/azure-ts-containerapps

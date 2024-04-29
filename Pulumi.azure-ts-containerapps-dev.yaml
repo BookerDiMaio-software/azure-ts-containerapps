@@ -1,0 +1,3 @@
+config:
+  azure-native:location: eastus2
+  pulumi:template: https://github.com/pulumi/examples/tree/master/azure-ts-containerapps
